@@ -1,4 +1,4 @@
-# 
+# Turbo Cubase workflow for Mac OS | Top Cubase workflow for PC Windows. Featuring green-screen-keying and color-grading — optimized for maximum performance on every platform.
 
 
 
